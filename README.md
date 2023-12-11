@@ -2,7 +2,7 @@
 
 - I'm currently learning Python in conjunction with Git and GitHub.
 
-<a rel="@fletchn@infosec.exchange" href="https://infosec.exchange/@fletchn">Mastodon</a>
+<a rel="me" href="https://infosec.exchange/@fletchn">Mastodon</a>
 
 <!--
 **nickrfletcher/nickrfletcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
